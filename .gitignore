@@ -1,0 +1,32 @@
+# secrets — never commit
+.env
+.env.*
+
+# dependencies / build
+node_modules/
+dist/
+spike-dino-viewer/node_modules/
+spike-dino-viewer/dist/
+
+# private conversation transcripts
+.ignore/
+
+# heavy intermediate render artifacts (reproducible from the pipeline)
+film/clips/
+film/tmp/
+film/req*.json
+film/res*.json
+film/vreq*.json
+film/vres*.json
+film/anim.json
+film/batch1.json
+
+# redundant non-web final encode (keep only the compatible + web versions)
+film/glider_through_time.mp4
+
+# local image sink helper
+journey/assets/sink.mjs
+
+# os
+.DS_Store
+Thumbs.db
