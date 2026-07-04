@@ -22,8 +22,9 @@ The full, illustrated case study — every decision, every fork, and the reasoni
 
 A **45-second continuous flight** through ten eras — from the primordial ocean to the Wright brothers at Kitty Hawk, 1903.
 
-- ▶ **Watch:** [`film/glider_through_time_compat.mp4`](film/glider_through_time_compat.mp4) *(standard H.264, plays everywhere)*
-- The web-optimised copy that plays inside the live journey lives at [`journey/assets/film-web.mp4`](journey/assets/film-web.mp4).
+https://github.com/az9713/fable-5-video-creation/releases/download/v1.0/glider_through_time_compat.mp4
+
+*If the player above doesn't load, watch it in the [live journey](https://az9713.github.io/fable-5-video-creation/) (it plays in the hero), download it directly from [Releases](https://github.com/az9713/fable-5-video-creation/releases/tag/v1.0), or grab the source file [`film/glider_through_time_compat.mp4`](film/glider_through_time_compat.mp4).*
 
 | | |
 |---|---|
