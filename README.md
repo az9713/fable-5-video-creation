@@ -6,18 +6,6 @@ This repository is both the project and its story.
 
 ---
 
-## ▶ View the live development journey
-
-The full, illustrated case study — every decision, every fork, and the reasoning behind it — is published as a live web page:
-
-### **https://az9713.github.io/fable-5-video-creation/**
-
-[![Open the live journey](journey/assets/film-poster.jpg)](https://az9713.github.io/fable-5-video-creation/)
-
-*(GitHub can't run interactive HTML inside a README, so the page above is the rendered version of [`journey/index.html`](journey/index.html) — a cinematic, scrollable page with a live flight-instrument HUD, before/after comparisons, and both light and dark themes.)*
-
----
-
 ## The film
 
 A **45-second continuous flight** through ten eras — from the primordial ocean to the Wright brothers at Kitty Hawk, 1903. Click to play:
@@ -32,6 +20,18 @@ A **45-second continuous flight** through ten eras — from the primordial ocean
 | **Total spent** | **$4.30** of a $5.35 budget |
 | **Eras** | 10, every one animated on the first try |
 | **Retake budget used** | $0.00 |
+
+---
+
+## ▶ View the live development journey
+
+The full, illustrated case study — every decision, every fork, and the reasoning behind it — is published as a live web page:
+
+### **https://az9713.github.io/fable-5-video-creation/**
+
+[![Open the live journey](journey/assets/film-poster.jpg)](https://az9713.github.io/fable-5-video-creation/)
+
+*(GitHub can't run interactive HTML inside a README, so the page above is the rendered version of [`journey/index.html`](journey/index.html) — a cinematic, scrollable page with a live flight-instrument HUD, before/after comparisons, and both light and dark themes.)*
 
 ---
 
